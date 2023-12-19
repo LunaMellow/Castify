@@ -2,7 +2,7 @@
 
 ## Movie Streaming Subscription Manager
 
-Welcome to **Castify** – a simple tool for managing a movie subscription service. Castify offers an easy-to-use cli-platform build in C
+Welcome to **Castify** – a simple tool for managing a movie subscription service. Castify offers an easy-to-use cli-platform built in C
 
 ### Features
 
