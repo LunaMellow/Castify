@@ -1,0 +1,11 @@
+userID|name|userName|email|phone|address|subscriptionType|paymentMethod|isActive
+1|Erik Hansen|erikh|ErikH@example.no|4721234567|Storgata 3, 0155 Oslo|0|0|1
+2|Anna Johansen|annaj|AnnaJ@example.no|4745678901|Karl Johans gate 47, 0162 Oslo|1|2|0
+3|Lars Andersen|larsa|LarsA@example.no|4798765432|Markveien 60, 0554 Oslo|2|1|2
+4|Sofia Nilsen|sofian|SofiaN@example.no|4712345678|Bogstadveien 30, 0355 Oslo|0|0|1
+5|Knut Ødegård|knutod|KnutO@example.no|4765432190|Grünerløkka 17, 0552 Oslo|1|3|0
+6|Emma Solberg|emmas|EmmaS@example.no|4720987654|Akersgata 55, 0180 Oslo|2|4|3
+7|Ole Kristiansen|olek|OleK@example.no|4735678901|Thorvald Meyers gate 72, 0552 Oslo|0|1|1
+8|Maja Lie|majal|MajaL@example.no|4746543219|Frognerveien 1, 0257 Oslo|1|2|2
+9|Sindre Foss|sindref|SindreF@example.no|4778901234|Trondheimsveien 100, 0565 Oslo|2|3|0
+10|Kari Pedersen|karip|KariP@example.no|4711122233|St. Olavs gate 21, 0166 Oslo|0|0|1
